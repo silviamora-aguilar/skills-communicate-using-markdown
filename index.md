@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, worldn - I'm Gerald, the Giraffe!";
 ```
+- [ ] Buy a Giraffe Hat
+- [ ] Buy a Giraffe Sticker
+- [x] Buy Giraffe converse 
